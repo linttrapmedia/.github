@@ -11,7 +11,7 @@ OEM is a lightweight dom library that allows you to create your own template/s d
 
 ### [domx](https://domx.js.org) (Tier 2 - DOM & State Manipulation)
 #### A novel UI library for managing the DOM without javascript
-DOMX is a library for manipulating the dom without javascript. Think Htmx re-envisioned as a state machine defined and served from the backend. This allows you to completely control the UI from the backend without writing needing javascript.
+DOMX is a library for manipulating the dom without javascript. Think Htmx re-envisioned as a state machine defined and served from the backend. This allows you to completely control the UI from the backend without  needing javascript.
 
 ### [capui](https://capui.js.org) (Tier 3 - Parts and Styles)
 #### A novel UI library of cut & paste components
