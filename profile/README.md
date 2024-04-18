@@ -1,6 +1,6 @@
 # The Ultimate UI Ecosystem
 
-The Lint Trap Media UI ecosystem is powerful system for managing user interfaces with far less code and complexity than React, Angular, Vue, Htmx, or any other framework. Job listings for "react developers" is evidence enough that things have gotten out of control. There are much simpler ways to do things.
+The Lint Trap Media UI ecosystem is a powerful system for managing user interfaces with far less code and complexity than React, Angular, Vue, Htmx, or any other framework. Job listings for "react developers" is evidence enough that things have gotten out of control. There are much simpler ways to do things.
 
 ## The Three Tiered System
 The Linttrap UI system includes three standalone (but complimentary) projects that solve different problems we all experience out in the wild. It can be viewed as a three tiered system. 
