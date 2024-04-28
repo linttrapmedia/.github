@@ -9,6 +9,6 @@ OEM is a lightweight dom library that allows you to create your own templating e
 #### Transform The DOM From The Backend Without Javascript
 DOMX is a library for manipulating the dom without javascript using a simple state machine served by the backend. Think htmx, but waaaay simpler.
 
-### [capui](https://capui.js.org](https://linttrapmedia.github.io/capui) (Tier 3)
+### [capui](https://linttrapmedia.github.io/capui) (Tier 3)
 #### The Cut & Paste UI, Ctrl+Done.
 CAP UI is just bunch of cut & paste components made up of most css and a little vanilla js here and there. Modern CSS is powerful and most components need little more than some good css and if needed, a touch of js.
