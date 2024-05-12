@@ -1,5 +1,5 @@
 # The Lint Trap UI
-The Lint Trap UI project solves the disparity and complexity we all experience building web applications by introducing three libraries that are: 1. easy to understand 2. have zero-dependencies 3. complimentary.
+The Lint Trap UI project solves the disparity and complexity we all experience building web applications by introducing three complimentary libraries that are: easy to understand, have zero-dependencies and make frontend easy again.
 
 ### [oem](https://oem.js.org)
 #### Tier 1: Client-side Rendered Reactive HTML
